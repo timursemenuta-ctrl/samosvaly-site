@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Послуги спецтехніки Київ | Спецтехніка</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-white text-gray-900">
+
+    <!-- Header -->
+    <header class="fixed top-0 left-0 w-full bg-white shadow-md z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <a href="index.html" class="flex items-center">
+                    <img src="лого.png" alt="Logo" class="h-[60px] w-auto">
+                </a>
+                <nav class="hidden md:flex space-x-8">
+                    <a href="index.html" class="text-gray-700 hover:text-orange-600 font-medium transition-colors">Оренда</a>
+                    <a href="samosval.html" class="text-gray-700 hover:text-orange-600 font-medium transition-colors">Самоскид</a>
+                    <a href="ekskavator.html" class="text-gray-700 hover:text-orange-600 font-medium transition-colors">Екскаватор</a>
+                    <a href="katok.html" class="text-gray-700 hover:text-orange-600 font-medium transition-colors">Дорожній каток</a>
+                    <a href="uslugi.html" class="text-orange-700 hover:text-orange-600 font-medium transition-colors">Послуги</a>
+                    <a href="kontakty.html" class="text-gray-700 hover:text-orange-600 font-medium transition-colors">Контакти</a>
+                </nav>
+                <div class="hidden md:flex items-center text-orange-600 font-bold">
+                    <i data-lucide="phone" class="w-5 h-5 mr-2"></i>
+                    <a href="tel:+380503539533">+38 (050) 353-95-33</a>
+                </div>
+                <button id="mobile-menu-btn" class="md:hidden text-gray-700">
+                    <i data-lucide="menu" class="h-8 w-8"></i>
+                </button>
+            </div>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-100 px-4 py-4 space-y-4">
+            <a href="index.html" class="block text-gray-700 font-bold">Оренда</a>
+            <a href="samosval.html" class="block text-gray-700 font-medium">Самоскид</a>
+            <a href="ekskavator.html" class="block text-gray-700 font-medium">Екскаватор</a>
+            <a href="katok.html" class="block text-gray-700 font-medium">Дорожній каток</a>
+            <a href="uslugi.html" class="block text-orange-600 font-medium">Послуги</a>
+            <a href="kontakty.html" class="block text-gray-700 font-medium">Контакти</a>
+            <div class="flex items-center text-orange-600 font-bold pt-2">
+                <i data-lucide="phone" class="w-5 h-5 mr-2"></i>
+                <a href="tel:+380503539533">+38 (050) 353-95-33</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-20">
+        <!-- Hero -->
+        <section class="relative h-[60vh] min-h-[400px] flex items-center justify-center overflow-hidden">
+            <div class="absolute inset-0 z-0 bg-fixed bg-center bg-cover" style="background-image: url('аренда_шапка.png');">
+    <div class="absolute inset-0 bg-black/50"></div>
+</div>
+            <div class="relative z-10 text-center px-4 max-w-4xl mx-auto">
+                <h1 class="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">Послуги спецтехніки</h1>
+                <p class="text-xl md:text-2xl text-gray-200">Комплексні рішення для будівництва</p>
+            </div>
+        </section>
+
+        <!-- Services -->
+        <section class="py-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+                <div class="bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
+                    <div class="mb-6 flex justify-center text-orange-600"><i data-lucide="truck" class="w-12 h-12"></i></div>
+                    <h2 class="text-2xl font-bold mb-6 text-center">Оренда самоскида</h2>
+                    <ul class="space-y-4 text-gray-700">
+                        <li class="flex items-start"><i data-lucide="check-circle-2" class="w-5 h-5 text-green-500 mr-3 mt-0.5"></i><span>Перевезення сипких матеріалів</span></li>
+                        <li class="flex items-start"><i data-lucide="check-circle-2" class="w-5 h-5 text-green-500 mr-3 mt-0.5"></i><span>Вивезення будівельного сміття</span></li>
+                    </ul>
+                </div>
+                <div class="bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
+                    <div class="mb-6 flex justify-center text-orange-600"><i data-lucide="shovel" class="w-12 h-12"></i></div>
+                    <h2 class="text-2xl font-bold mb-6 text-center">Оренда екскаватора</h2>
+                    <ul class="space-y-4 text-gray-700">
+                        <li class="flex items-start"><i data-lucide="check-circle-2" class="w-5 h-5 text-green-500 mr-3 mt-0.5"></i><span>Копання котлованів та траншей</span></li>
+                        <li class="flex items-start"><i data-lucide="check-circle-2" class="w-5 h-5 text-green-500 mr-3 mt-0.5"></i><span>Демонтаж будівель</span></li>
+                    </ul>
+                </div>
+                <div class="bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
+                    <div class="mb-6 flex justify-center text-orange-600"><i data-lucide="construction" class="w-12 h-12"></i></div>
+                    <h2 class="text-2xl font-bold mb-6 text-center">Оренда катка</h2>
+                    <ul class="space-y-4 text-gray-700">
+                        <li class="flex items-start"><i data-lucide="check-circle-2" class="w-5 h-5 text-green-500 mr-3 mt-0.5"></i><span>Ущільнення асфальту</span></li>
+                        <li class="flex items-start"><i data-lucide="check-circle-2" class="w-5 h-5 text-green-500 mr-3 mt-0.5"></i><span>Ущільнення ґрунту</span></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+<!-- Form -->
+        <!-- Form Section -->
+<section id="contact-form" class="py-20 bg-white">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-gray-50 rounded-2xl shadow-xl p-8 md:p-12">
+            <h2 class="text-3xl font-bold text-center mb-8 text-gray-900">ОФОРМИТИ ЗАЯВКУ</h2>
+            
+            <form id="lead-form" class="space-y-6">
+                <!-- ВСТАВТЕ ВАШ КЛЮЧ ВІД WEB3FORMS НИЖЧЕ ЗАМІСТЬ "YOUR_ACCESS_KEY_HERE" -->
+                <input type="hidden" name="access_key" value="e816ac76-cb30-42af-9adc-ccc94c6c20f9">
+                
+                <!-- Додаткові налаштування (необов'язково) -->
+                <input type="hidden" name="subject" value="Нова заявка з сайту СпецТех">
+                <input type="checkbox" name="botcheck" id="" style="display: none;">
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Ім'я</label>
+                        <input type="text" name="first_name" required class="w-full px-4 py-3 rounded-lg border border-gray-300 outline-none focus:ring-2 focus:ring-orange-600">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Прізвище</label>
+                        <input type="text" name="last_name" required class="w-full px-4 py-3 rounded-lg border border-gray-300 outline-none focus:ring-2 focus:ring-orange-600">
+                    </div>
+                </div>
+                
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-1">Телефон</label>
+                    <input type="tel" name="phone" required class="w-full px-4 py-3 rounded-lg border border-gray-300 outline-none focus:ring-2 focus:ring-orange-600">
+                </div>
+                
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-1">Залиште повідомлення...</label>
+                    <textarea name="message" rows="4" class="w-full px-4 py-3 rounded-lg border border-gray-300 outline-none focus:ring-2 focus:ring-orange-600 resize-none"></textarea>
+                </div>
+                
+                <button type="submit" class="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold py-4 rounded-lg shadow-lg transition-all">
+                    ОФОРМИТИ ЗАЯВКУ
+                </button>
+            </form>
+        </div>
+    </div>
+</section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
+                <div>
+                    <h3 class="text-xl font-bold mb-6 border-l-4 border-orange-600 pl-4">Про нас</h3>
+                    <p class="text-gray-400 leading-relaxed">Ми надаємо професійні послуги з оренди спецтехніки у Києві та Київській області.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-bold mb-6 border-l-4 border-orange-600 pl-4">Контакти</h3>
+                    <div class="space-y-4">
+                        <div class="flex items-center"><i data-lucide="phone" class="w-5 h-5 text-orange-600 mr-3"></i><a href="tel:+380503539533" class="hover:text-orange-600">+38 (050) 353-95-33</a></div>
+<div class="flex space-x-4 mt-6">
+    <!-- Telegram -->
+    <a href="https://t.me/+380503539533" target="_blank" class="hover:opacity-80 transition-opacity">
+        <img src="tg.png" alt="Telegram" class="w-9 h-9 object-contain">
+    </a>
+    
+    <!-- Viber -->
+    <a href="viber://chat?number=%2B380503539533" target="_blank" class="hover:opacity-80 transition-opacity">
+        <img src="viber.png" alt="Viber" class="w-9 h-9 object-contain">
+    </a>
+    
+    <!-- WhatsApp -->
+    <a href="https://wa.me/380503539533" target="_blank" class="hover:opacity-80 transition-opacity">
+        <img src="wts.png" alt="WhatsApp" class="w-9 h-9 object-contain">
+    </a>
+</div>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-bold mb-6 border-l-4 border-orange-600 pl-4">Замовити техніку</h3>
+                    <button onclick="document.getElementById('contact-form').scrollIntoView({behavior:'smooth'})" class="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-lg transition-all">ОФОРМИТИ ЗАЯВКУ</button>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
+                <p>&copy; 2026 Оренда Спецтехніки Київ. Всі права захищені.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
