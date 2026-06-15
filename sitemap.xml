@@ -1,21 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://samosvaly.com/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://samosvaly.com/samosval.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/samosval.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/samosval.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/samosval.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://samosvaly.com/katok.html</loc>
+    <loc>https://samosvaly.com/ru/samosval.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/samosval.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/samosval.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/samosval.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://samosvaly.com/ekskavator.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/ekskavator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/ekskavator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/ekskavator.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/ekskavator.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/ekskavator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/ekskavator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/ekskavator.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/katok.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/katok.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/katok.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/katok.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/katok.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/katok.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/katok.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/katok.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://samosvaly.com/uslugi.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/uslugi.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/uslugi.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/uslugi.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/uslugi.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/uslugi.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/uslugi.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/uslugi.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/demontazh.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/demontazh.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/demontazh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/demontazh.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/demontazh.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/demontazh.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/demontazh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/demontazh.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/vyviz-smittya.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/vyviz-smittya.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/vyviz-smittya.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/vyviz-smittya.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/vyviz-smittya.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/vyviz-smittya.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/vyviz-smittya.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/vyviz-smittya.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/vykorchuvanya-pniv.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/vykorchuvanya-pniv.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/vykorchuvanya-pniv.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/vykorchuvanya-pniv.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/vykorchuvanya-pniv.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/vykorchuvanya-pniv.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/vykorchuvanya-pniv.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/vykorchuvanya-pniv.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/kopanya-transhey.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/kopanya-transhey.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/kopanya-transhey.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/kopanya-transhey.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/kopanya-transhey.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/kopanya-transhey.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/kopanya-transhey.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/kopanya-transhey.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/rozrobka-kotlovaniv.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/rozrobka-kotlovaniv.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/rozrobka-kotlovaniv.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/rozrobka-kotlovaniv.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/rozrobka-kotlovaniv.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/rozrobka-kotlovaniv.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/rozrobka-kotlovaniv.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/rozrobka-kotlovaniv.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ochystka-terytoriyi.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/ochystka-terytoriyi.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/ochystka-terytoriyi.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/ochystka-terytoriyi.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/ochystka-terytoriyi.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/ochystka-terytoriyi.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/ochystka-terytoriyi.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/ochystka-terytoriyi.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://samosvaly.com/kontakty.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/kontakty.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/kontakty.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/kontakty.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samosvaly.com/ru/kontakty.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://samosvaly.com/kontakty.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://samosvaly.com/ru/kontakty.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://samosvaly.com/kontakty.html" />
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
